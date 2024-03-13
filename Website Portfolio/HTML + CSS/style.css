@@ -1,0 +1,352 @@
+body {
+    margin: 0;
+}
+.nav {
+    position: fixed;
+    width: 100%;
+}
+.navbar {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    background-color: #ffffff;
+    box-shadow:  22px 1px 50px #a8a8a8, -22px -22px 50px #ffffff;
+
+}
+.logo {
+    margin-left: 40px;
+}
+.navigasi {
+    display: flex;
+    margin-left: 800px;
+    
+}
+.navigasi > li{
+    display: flex;
+    margin-right: 30px;
+    
+}
+.punchline {
+    display: flex;
+}
+.person {
+    width: 250px;
+    border-radius: 50px;
+    background: #e0e0e0;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+    margin: 125px 0px 0px 150px;
+}
+.iconWord > h1{
+    font-size: 50px;
+}
+.iconWord > h2{
+    margin-left: 60px;
+}
+.iconWord {
+    margin-top: 185px;
+    margin-left: 500px;
+}
+.imageIconWord {
+    width: 35px;
+    height: 35px;
+    display: flex;
+}
+.imageIconWord > img {
+    margin-right: 12px;
+}
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aboutLogo {
+    width: 150px;
+    height: 50px;
+    background-color: #ffffff;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+    margin: -60px 0px 0px 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aboutContent {
+    background-color: #D9D9D9;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+    margin: 300px 40px 0px 40px;
+    padding: 30px;
+}
+.aboutContent > p{
+    font-style: oblique;
+    font-size: 18px;
+    padding-top: 20px;
+}
+.skillLogo {
+    width: 150px;
+    height: 50px;
+    background-color: #ffffff;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+    margin: 150px 0px 0px 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.skillkalkulation {
+    display: flex;
+}
+.skill {
+    width: 200px;
+    height: 370px;
+    background-color: #ffffff;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+    margin: 80px 0px 0px 60px;
+    display: grid;
+    place-items: center; 
+}
+.desainkalkulation {
+    width: 800px;
+    height: 10px;
+    background-color: white;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+    margin: 110px 0px 0px 150px;
+    border-color: black;
+}
+.desainkalkulation2 {
+    width: 600px;
+    height: 10px;
+    background-color: black;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+}
+.HTMLkalkulation {
+    width: 800px;
+    height: 10px;
+    background-color: white;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+    margin: 50px 0px 0px 150px;
+    border-color: black;
+}
+.HTMLkalkulation2 {
+    width: 700px;
+    height: 10px;
+    background-color: black;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+}
+.CSSkalkulation {
+    width: 800px;
+    height: 10px;
+    background-color: white;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+    margin: 50px 0px 0px 150px;
+    border-color: black;
+}
+.CSSkalkulation2 {
+    width: 750px;
+    height: 10px;
+    background-color: black;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+}
+.JavaSkriptkalkulation {
+    width: 800px;
+    height: 10px;
+    background-color: white;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+    margin: 50px 0px 0px 150px;
+    border-color: black;
+}
+.JavaSkriptkalkulation2 {
+    width: 600px;
+    height: 10px;
+    background-color: black;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+}
+.PHPkalkulation {
+    width: 800px;
+    height: 10px;
+    background-color: white;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+    margin: 50px 0px 0px 150px;
+    border-color: black;
+}
+.PHPkalkulation2 {
+    width: 650px;
+    height: 10px;
+    background-color: black;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+}
+.Pythonkalkulation {
+    width: 800px;
+    height: 10px;
+    background-color: white;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+    margin: 50px 0px 0px 150px;
+    border-color: black;
+}
+.Pythonkalkulation2 {
+    width: 700px;
+    height: 10px;
+    background-color: black;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+}
+.portfolioLogo {
+    width: 150px;
+    height: 50px;
+    background-color: #ffffff;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+    margin: 150px 0px 0px 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.portfolioImage1 {
+    display: flex;
+}
+.portfolioImage1 > img {
+    width: 400px;
+    background-color: #ffffff;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+    margin: 150px 0px 0px 50px;
+}
+.portfolioImage1_2 {
+    margin: 200px 0px 0px 50px;
+}
+.portfolioImage2 {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+.portfolioImage2 > img {
+    width: 400px;
+    background-color: #ffffff;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+    margin: 200px 50px 0px 0px;
+}
+.portfolioImage2_2 {
+    display: inline;
+    justify-content: right;
+    align-items: right;
+    margin: 280px 40px 0px 0px;
+}
+.portfolioImage2_2 > h2{
+    margin-left: 120px;
+}
+.portfolioImage2_2 > h3:nth-child(3){
+    margin-left: -9px;
+}
+.portfolioImage3 {
+    display: flex;
+}
+.portfolioImage3 > img {
+    width: 400px;
+    background-color: #ffffff;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+    margin: 150px 0px 0px 50px;
+}
+.portfolioImage3_2 {
+    margin: 350px 0px 0px 50px;
+}
+.container5 {
+    width:1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 150px 0px 0px 15%;
+    background-color: #ffffff;
+    border-radius: 50px;
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+}
+.askImage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+.container6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.test {
+    border-radius: 50px;
+    background: linear-gradient(145deg, #cacaca, #f0f0f0);
+    box-shadow:  22px 22px 50px #a8a8a8, -22px -22px 50px #ffffff;
+    width: 1200px;
+    height: 500px;
+    margin-top: 150px;
+}
+.testImage1 > img{
+    width: 100px;
+    height: 100px;
+    margin: 0px 0px 0px 500px;
+}
+.testImage1 {
+    display: flex;
+}
+
+.testimoni1 > h2{
+    margin-right: 30px;
+}
+.testImage2 > img{
+    width: 100px;
+    height: 100px;
+    margin: 18px 0px 0px 700px;
+}
+.testImage2 {
+    display: flex;
+}
+.testimoni2 > h2{
+    margin-right: 30px;
+}
+.testImage3 > img{
+    width: 100px;
+    height: 100px;
+    margin: 40px 0px 0px 600px;
+}
+.testImage3 {
+    display: flex;
+}
+.testimoni3 > h2{
+    margin-right: 30px;
+}
+.testImageInline { 
+    margin: 50px 50px 50px 50px;
+}
+.toFooter {
+    height: 200px;
+}
+.footer {
+    height: 50px;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    box-shadow:  22px 1px 50px #a8a8a8, -22px -22px 50px #ffffff;
+}
+.footer > img {
+    width: 40px;
+    height: 40px;
+}
+.div1 {
+    height: 50px;
+    width: 150px;
+}
